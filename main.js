@@ -1,3 +1,9 @@
+/*
+INTEGRANTES:
+Murillo Henrique da Silva Pereira
+Matheus Guireli Amaral
+TURMA: 3 Serie i
+*/
 const numeroSenha = document.querySelector('.parametro-senha__texto');
 const forcaSenha = document.querySelector('.forca');
 const botoes = document.querySelectorAll('.parametro-senha__botao');
